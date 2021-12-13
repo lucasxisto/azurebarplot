@@ -27,4 +27,4 @@ dash_app.layout = html.Div(children=[
 ])
 
 if __name__ == '__main__':
-    dash_app.run_server(debug=True, host='0.0.0.0', port='80')
+    dash_app.run_server(debug=True)
